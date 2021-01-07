@@ -1,9 +1,18 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Posts"
+    url: /posts/
+
+# Post Links
+posts:
+  - title: Posts Collections
+    children:
+      - title: "Transformation Consulting"
+        url: /cv/
+      - title: "Data Science Explorations"
+        url: /posts/dse
+      - title: "Cosmic Adventures"
+        url: /posts/cosmic
