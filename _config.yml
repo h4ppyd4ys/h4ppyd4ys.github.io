@@ -264,7 +264,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      
       read_time: true
       comments: # true
       share: true
@@ -272,6 +272,7 @@ defaults:
       show_date: true
       sidebar:
         nav: "posts"
+        author_profile: true
   # _pages
   - scope:
       path: ""

@@ -25,9 +25,9 @@ Within the boundaries of language and algorithms, this space is an experimentati
 
 My professional journey has afforded me with 20 years of international telecoms experience working with industry leaders to implement large transformation programs.  If you are seeking   *independent transformation consulting* support that advocates transparency, accountability, quality and traceability head over to my [CV](/cv/), where I have quite honestly described my areas of expertise and please feel free to contact me if I can be of assistance. 
 
-As we rapidly transition into world where, for better or worse, we begin to rely on the mysterious cloud and so called big data, I wanted to understand more. So i opened the pandoras box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I bring to you this site and the [data science explorations](link here) space.
+As we rapidly transition into world where, for better or worse, we begin to rely on the mysterious cloud and so called big data, I wanted to understand more. So i opened the pandoras box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data science explorations](link here) space. Transforming curiosity in the world of data.    
 
-[Cosmic adventures](link here) brings to the space, one legendary 1995 VW campervan, flo, who is presently meditating it out in London lockdown and the realization of a lifelong fascination with the night sky in the form of astro photography, presently going through a steep but enjoyable learning curve and patiently waiting for clear skies. 
+[Cosmic adventures](link here) brings together, one legendary 1995 VW campervan and the realization of a lifelong fascination with the night sky. Transforming light with astro photogrpahy.
 
 Time and attention are the most precious gifts we can offer to ourselves and one another, so much appreciated if you've stayed with me till here. Hope you enjoy the space.
 
