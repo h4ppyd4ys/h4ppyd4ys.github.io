@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :tag => "4.21.0"
 
 
 gem "tzinfo-data"
