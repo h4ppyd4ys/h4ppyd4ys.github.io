@@ -3,11 +3,13 @@ title: "Transformation Journeys"
 layout: splash
 permalink: /
 hidden: true
+excerpt: "Unity Is Strength, Diversity Is Balance"
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/home-feature.jpg
-excerpt: >
-  Unity Is Strength, Diversity Is Balance
+  caption: # "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "/about/"
 feature_row:
   - image_path: /assets/images/tc.jpg
     alt: "tc"
@@ -30,7 +32,7 @@ feature_row:
     url: "/posts/cosmic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-author_profile: true
+    
 ---
 
 {% include feature_row %}

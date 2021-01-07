@@ -18,14 +18,13 @@ I’ve happily spent most of my professional career traversing the globe learnin
 ##  Present
 As the planet embraces global change with varying degrees of acceptance, i too find myself with opportunities to try something new. From reflection and contemplation, it became very apparent that transformation has been a common theme in all areas of my life. We spend our lives as roles, some of which are so clearly demarcated in online platforms such as linkedIn, facebook, instagram and twitter.  
 
-Within the boundaries of language and algorithms, this space is an experimentation with unification. Connecting transformation experiences and appreciating the balance and innovation that diversity brings.  
-
+This space is an exploration. Connecting transformation experiences, to perhaps appreciate, within the boundaries of language, algorithms, people and technology, the strength that unity brings and the balancing nature of diversity.
 
 ##  Future
 
-My professional journey has afforded me with 20 years of international telecoms experience working with industry leaders to implement large transformation programs.  If you are seeking   *independent transformation consulting* support that advocates transparency, accountability, quality and traceability head over to my [CV](/cv/), where I have quite honestly described my areas of expertise and please feel free to contact me if I can be of assistance. 
+My professional journey has afforded me with 20 years of international telecoms experience, working with industry leaders to implement large transformation programs.  If you are seeking   *independent transformation consulting* support that advocates transparency, accountability, quality and traceability head over to my [CV](/cv/), where I have quite honestly described my areas of expertise.  
 
-As we rapidly transition into world where, for better or worse, we begin to rely on the mysterious cloud and so called big data, I wanted to understand more. So i opened the pandoras box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data science explorations](link here) space. Transforming curiosity in the world of data.    
+As we rapidly transition into a world where, for better or worse, we begin to rely on the mysterious cloud and so called big data, I wanted to understand more. So i opened the pandoras box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data science explorations](link here) space. Transforming curiosities in the world of data.    
 
 [Cosmic adventures](link here) brings together, one legendary 1995 VW campervan and the realization of a lifelong fascination with the night sky. Transforming light with astro photogrpahy.
 

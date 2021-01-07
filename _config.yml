@@ -272,7 +272,6 @@ defaults:
       show_date: true
       sidebar:
         nav: "posts"
-        author_profile: true
   # _pages
   - scope:
       path: ""
