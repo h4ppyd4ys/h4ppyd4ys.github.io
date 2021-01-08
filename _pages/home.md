@@ -22,14 +22,14 @@ feature_row:
     alt: "datascience"
     title: "Data Science Explorations"
     excerpt: "So many questions, so much information. Transforming curiosities in the world of data. The quest begins..."
-    url: "/posts/dse/"
+    url: "/dse/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/cosmic.jpg
     alt: "cosmic"
     title: "Cosmic Adventures"
     excerpt: "Transforming light. Nomadic adventures with a 1995 VW Campervan and a lifelong passion for the night sky realized through astro photography."
-    url: "/posts/cosmic/"
+    url: "/cosmic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
     
