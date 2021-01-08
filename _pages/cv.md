@@ -51,8 +51,6 @@ author_profile: true
 +	eTOM
 +	Telecoms Application Map
 +	BPMN2.0
-+	AWS CLOUD FUNDAMENTALS
-+   Data Science:Foundations using R
 
 ##  **QUALIFICATIONS**
 
