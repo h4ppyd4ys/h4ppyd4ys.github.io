@@ -13,10 +13,10 @@ Namaste. Welcome to my first blogging space
 {% include gallery id="layouts_gallery"%}
 
 ##  Past
-I’ve happily spent most of my professional career traversing the globe learning, sharing and innovating in the telecommunications transformation space. Planes, trains, hotels, people, cultures and family reunions. The loneliness and exhilaration. With heartfelt gratitude and the benefit of 2020 hindsight, i can honestly say i wouldn't change a thing.  
+I’ve happily spent most of my professional career traversing the globe learning, sharing and innovating in the telecommunications transformation space. Planes, trains, hotels, people, cultures and family reunions. The loneliness and exhilaration. With heartfelt gratitude and the benefits of 2020 hindsight, i can honestly say i wouldn't change a thing.  
 
 ##  Present
-As the planet embraces global change with varying degrees of acceptance, i too find myself with opportunities to try something new. From reflection and contemplation, it became very apparent that transformation has been a common theme in all areas of my life. We spend our lives as roles, some of which are so clearly demarcated in online platforms such as linkedIn, facebook, instagram and twitter.  
+As the planet embraces global transformation with varying degrees of acceptance, i too find myself in a position to pursue fresh opportunities. From reflection and contemplation, it became very apparent that change has been a common theme and the only real constant of my life. We spend our lives as roles, some of these so clearly demarcated in online platforms such as linkedIn, facebook, instagram and twitter.  
 
 This space is an exploration. Connecting transformation experiences, to perhaps appreciate, within the boundaries of language, algorithms, people and technology, the strength that unity brings and the balancing nature of diversity.
 
@@ -32,5 +32,5 @@ Time and attention are the most precious gifts we can offer to ourselves and one
 
 Namaste
 &
-May the force be with you.
+may the force be with you. ;)
 

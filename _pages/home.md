@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/question.jpg
     alt: "datascience"
     title: "Data Science Explorations"
-    excerpt: "So many questions, so much data. The quest begins..."
+    excerpt: "So many questions, so much information. Transforming curiosities in the world of data. The quest begins..."
     url: "/posts/dse/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
