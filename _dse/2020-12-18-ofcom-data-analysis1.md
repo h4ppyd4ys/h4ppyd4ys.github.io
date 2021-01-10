@@ -7,17 +7,21 @@ classes: wide
 author_profile: yes
 read_time: yes
 show_date: yes
+excerpt: "I was expecting a course about a tool similar to excel and its many functions showing me how to manipulate data with an intuitive interface to build fancy graphs, instead, I was confronted by programming, which is rocket science for me."
 ---
 
 
 ## **Introduction**
 
-Just completed the Data Science Foundations Using R Coursera Course with John Hopkins University. It was a steep learning curve as programming doesn't come easy for me at all, I'll admit, I nearly gave up on more than several occasions. Motivation to persevere came mostly from a lot of online help from countless kind souls, so if you have ever posted on a GitHub or Coursera forum, please accept my sincerest gratitude. After many hours of trial and error, I finally got to the part of the course, for which I had enrolled, asking questions and creating pictorial representations that would illuminate the wisdom lying dormant in the data, which I enjoyed very much. Excited to use these new skills I decided to practice with data obtained from the industry I know best and a topic that has been most prevalent in all our lives for 2020. I look forward to sharing with you my data science exploration as I continue to develop my capabilities in this space.   
+I was expecting a course about a tool similar to excel and its many functions showing me how to manipulate data with an intuitive interface to build fancy graphs, instead, I was confronted by programming, which is rocket science for me. I nearly gave up several times however motivation to persevere came mostly from a lot of online help from countless kind souls, so if you have ever posted on a GitHub or Coursera-related forums, please accept my sincerest gratitude. After many hours of trial and error,  yes even with help, I finally got to the part of the course, for which I had enrolled, creating pictorial representations that would illuminate the wisdom lying dormant in the data.  
 
+Excited to use these new skills I decided to practice with data obtained from the industry I know best and a topic that has been most prevalent in all our lives for 2020. Still learning so for any professionals reading this, please bear with me :).  
 
-##  **Title: OfCom Data Analysis: Impact Of Covid-19 On UK Mobile Call Volumes**
+I think I might look into tableau and power bi at some point but for now, will continue to play with R Studio and its brilliant library of packages. 
 
-A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. The primary objective of the exercise was to demonsrate newly acquired skills from both the DataScience and the AWS Cloud Fundamentals Coursera courses to re-represent text format data into graphical representations and host the output on a AWS S3 server. Source Data obtained from: https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020
+##  **Title: Ofcom Data Analysis: Impact Of Covid-19 On UK Mobile Call Volumes**
+
+A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. Source Data obtained from: https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020
 
 ##  **Loading and pre-processing the data**
 
@@ -27,64 +31,10 @@ A graphical representation of OfCOM Telecommunications Market Data Update Q2 202
 ```r
 setwd("~/RStudioScripts/h4ppyd4ys.github.io/_dse")
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 library(tabulizer)
 library(tidyverse)
-```
-
-```
-## -- Attaching packages ---------------------------------------------------------- tidyverse 1.3.0 --
-```
-
-```
-## v ggplot2 3.3.2     v purrr   0.3.4
-## v tibble  3.0.4     v stringr 1.4.0
-## v tidyr   1.1.2     v forcats 0.5.0
-## v readr   1.4.0
-```
-
-```
-## -- Conflicts ------------------------------------------------------------- tidyverse_conflicts() --
-## x dplyr::filter() masks stats::filter()
-## x dplyr::lag()    masks stats::lag()
-```
-
-```r
 library(knitr)
 library(reshape2)
-```
-
-```
-## 
-## Attaching package: 'reshape2'
-```
-
-```
-## The following object is masked from 'package:tidyr':
-## 
-##     smiths
-```
-
-```r
 out <- extract_tables("telecoms-data-update-q2-2020.pdf")
 ```
 
