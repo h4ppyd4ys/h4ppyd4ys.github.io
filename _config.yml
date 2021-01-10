@@ -137,6 +137,8 @@ include:
   - .htaccess
   - _pages
   - ["_pages"]
+  - /dse
+  - /cosmic
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -173,6 +175,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+exclude: ['*.Rmd']
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -304,4 +307,4 @@ defaults:
       author_profile: true
       share: true
  
-        
+    

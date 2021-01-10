@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/tc.jpg
     alt: "tc"
     title: "Independent Transformation Consulting"
-    excerpt: "Building bridges between people and technology."
+    excerpt: "Building bridges between people and technology. Win-win endeavors that advocate transparency, accountability, quality, and traceability. I choose to be part of the solution"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/cosmic.jpg
     alt: "cosmic"
     title: "Cosmic Adventures"
-    excerpt: "Transforming light. Nomadic adventures with a 1995 VW Campervan and a lifelong passion for the night sky realized through astro photography."
+    excerpt: "Nomadic travels in a 1995 VW Campervan to realize a lifelong passion for the night sky in the form of Astrophotography and transform light captured from the darkness"
     url: "/cosmic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
