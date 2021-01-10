@@ -13,7 +13,7 @@ Namaste. Welcome to my first blogging space
 {% include gallery id="layouts_gallery"%}
 
 ##  Past
-I’ve happily spent most of my professional career traversing the globe learning, sharing, and innovating in the telecommunications transformation space. I came to think of planes as my lounge,  and taxi drivers as my welcoming party, delivering me to temporary homes where new cultures and people awaited discovery. With the benefit of 2020 hindsight, I can honestly say I wouldn't change a thing.  
+I’ve happily spent most of my professional career traversing the globe learning, sharing, and innovating in the telecommunications transformation space. The plane was my lounge,  and taxi drivers, my welcoming party, delivering me to temporary homes where new cultures and people awaited discovery. I can honestly say, with the benefit of 2020 hindsight,  I wouldn't change a thing. 
 ##  Present
 As the planet embraces global transformation with varying degrees of acceptance, I too find myself in a position to pursue fresh opportunities. Through reflection and contemplation, it became apparent that change has been the only real constant in my life. We spend our lives as roles, some of these so clearly demarcated in online platforms such as LinkedIn, Facebook, Instagram, and Twitter. This space is an exploration. Connecting transformation experiences, to perhaps appreciate, within the boundaries of language, algorithms, people, and technology, the strength that unity brings and the balancing nature of diversity.
 ##  Future
