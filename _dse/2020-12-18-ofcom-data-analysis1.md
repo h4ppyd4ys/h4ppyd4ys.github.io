@@ -13,9 +13,9 @@ excerpt: "I was expecting a course about a tool similar to excel and its many fu
 
 ## **Introduction**
 
-I was expecting a course about a tool similar to excel and its many functions showing me how to manipulate data with an intuitive interface to build fancy graphs, instead, I was confronted by programming, which is rocket science for me. I nearly gave up several times however motivation to persevere came mostly from a lot of online help from countless kind souls, so if you have ever posted on a GitHub or Coursera-related forums, please accept my sincerest gratitude. After many hours of trial and error,  yes even with help, I finally got to the part of the course, for which I had enrolled, creating pictorial representations that would illuminate the wisdom lying dormant in the data.  
+I was expecting a course about a tool similar to excel and its many functions showing me how to manipulate data with an intuitive interface to build fancy graphs, instead, I was confronted by programming, which is rocket science for me. I nearly gave up several times however motivation to persevere came mostly from a lot of online help from countless kind souls, so if you have ever posted on a GitHub or Coursera-related forums, please accept my sincerest gratitude. After many hours of trial and error,  yes even with help, I finally got to the part of the course, for which I had enrolled, creating pictorial representations that would illuminate the wisdom lying dormant in the data.    
 
-Excited to use these new skills I decided to practice with data obtained from the industry I know best and a topic that has been most prevalent in all our lives for 2020. Still learning so for any professionals reading this, please bear with me :).  
+Excited to use these new skills I decided to practice with data obtained from the industry I know best and a topic that has been most prevalent in all our lives for 2020. The purpose here to illustrate the basic principles of data loading, extracting, tidying and transforming into plots, using the framework taught in the course. Still learning so for any professionals reading this, please bear with me :).  
 
 I think I might look into tableau and power bi at some point but for now, will continue to play with R Studio and its brilliant library of packages. 
 
