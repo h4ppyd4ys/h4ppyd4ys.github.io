@@ -21,7 +21,7 @@ I think I might look into tableau and power bi at some point but for now, will c
 
 ##  **Title: Ofcom Data Analysis: Impact Of Covid-19 On UK Mobile Call Volumes**
 
-A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. [Source Data obtained from](https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020)
+A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. [Source Data](https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020) obtained from https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020
 
 ##  **Loading and pre-processing the data**
 
