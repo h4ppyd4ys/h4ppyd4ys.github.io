@@ -21,7 +21,7 @@ I think I might look into tableau and power bi at some point but for now, will c
 
 ##  **Title: Ofcom Data Analysis: Impact Of Covid-19 On UK Mobile Call Volumes**
 
-A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. Source Data obtained from: https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020
+A graphical representation of OfCOM Telecommunications Market Data Update Q2 2020 with specific focus on the impact of covid-19 on UK Mobile Call Volumes. [Source Data obtained from](https://www.ofcom.org.uk/research-and-data/telecoms-research/data-updates/telecommunications-market-data-update-q2-2020)
 
 ##  **Loading and pre-processing the data**
 
@@ -111,6 +111,6 @@ ggplot(data = temp3)+
 
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)
 
-###  Summary: The number of mobile-originated voice calls minutes increased by 10.0 billion (24.9%) to 50 billion minutes in Q2 2020, with calls to landlines increasing by 37.9% to 11.4 billion minutes. These increases are likely due to the Covid-19 restrictions, which began in late March 2020.Roaming call volumes decreased by 57.1% to 0.3 billion minutes compared to a year previously, again likely due to Covid-related travel restrictions.
+###  Summary: The number of mobile-originated voice calls minutes increased by 10.0 billion (24.9%) to 50 billion minutes in Q2 2020, with calls to landlines increasing by 37.9% to 11.4 billion minutes. These increases are likely due to the Covid-19 restrictions, which began in late March 2020. Roaming call volumes decreased by 57.1% to 0.3 billion minutes compared to a year previously, again likely due to Covid-related travel restrictions. This all directly and indirectly lead to me having the time to make this space so here we are. 
 
 
