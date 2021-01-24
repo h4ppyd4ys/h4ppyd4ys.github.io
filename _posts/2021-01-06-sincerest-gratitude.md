@@ -6,7 +6,7 @@ hidden: true
 feature_row:
   - image_path: /assets/images/namaste.jpg
     alt: "namaste"
-    excerpt: "The opportunity to learn is in every moment so if we have ever connected or crossed paths, thank you."
+    excerpt: "The opportunity to learn is present in every moment so if we have ever connected or crossed paths, thank you."
 author_profile: true
 read_time: true
 show_date: true
