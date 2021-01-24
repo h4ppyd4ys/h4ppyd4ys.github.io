@@ -24,12 +24,12 @@ Alas, my skills set seems frustratingly inadequate for the questions I want to e
 EU and Non-EU countries working together to make the impossible come true. :)
 
 
-![participating-countries](./figure/participating-countries.jpg)
-
+![participating-countries](figure/participating-countries.jpg)
 
 ## **UK Fund Distribution - Where does the money go?**
 
-![UK Fund Distribution](./figure/uk-focus.jpg)
+![UK Fund Distribution](figure/uk-focus.jpg))
+
 
 Data Sources:
 
