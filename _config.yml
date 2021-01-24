@@ -262,6 +262,7 @@ compress_html:
 collections:
   dse:
     output: true
+    related: true
     permalink: /:collection/:path/
   cosmic:
     output: true
@@ -288,6 +289,7 @@ defaults:
       type: pages
     values:
       layout: single
+      related: true
       sidebar:
         nav: "posts"
   # _dse
@@ -298,6 +300,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      related: true
    # _cosmic
   - scope:
       path: ""
@@ -306,5 +309,5 @@ defaults:
       layout: single
       author_profile: true
       share: true
- 
+      related: true 
     
