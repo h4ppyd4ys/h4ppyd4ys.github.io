@@ -16,6 +16,7 @@ author_profile: true
 +	EXTENSIVE EXPERIENCE WORKING WITH CROSS-FUNCTIONAL CUSTOMER AND VENDOR TEAM ENVIRONMENTS. 
 +	PROVEN ABILITY TO SUCCESSFULLY DELIVER IN BOTH ON-SITE AND REMOTE ACCESS SITUATIONS.
 +   DESIGN & DELIVERY OF CRITICAL BUSINESS TRANSFORMATION VALUE ADDED SERVICES
++   EXPERIENCE CREATING DASHBOARDS & REPRORTING VISUALIZATIONS FOR SENIOR MANAGEMENT.
 
 ##  **AREAS OF EXPERTISE**
  
@@ -27,23 +28,27 @@ author_profile: true
 +   End to end process focused **requirements management** quality assurance.
 +   **Statement of work** contribution and transformation **quality assurance** reviews.
 +	Subject matter expert for **CRM, Billing, PLM, Inventory & Ordering** products at all phases of the project life cycle
++   **Reporting & Business Intelligence** – Identify, analyze and map key KPIS and operational SLAs to business processes. Identifying and mitigating impacts of transformation to existing reporting capability. Identification of new report requirements.  Design and delivery of dashboards visualizations to tracks deliverable and work stream status. Creation of finance accrual reports for revenue assurance management and invoicing.
 
 ##  **TOOLS**
 
 +	ARIS PLATFORM
 +	SIGNAVIO 
 +	ENTERPRISE ARCHITECTURE
++   VISIO
 +	JIRA 
 +	SHAREPOINT
-+	MS OFFICE PACKAGE
++	FULL SUITE MS OFFICE PACKAGE
 +	WEBEX/ZOOM/MSTEAMS
 +	TORTOISE SVN
-+   RSTUDIO
++   RSTUDIO - R PROGRAMMING
 +   MARKDOWN
 +   GITHUB
 +   RPUBS
 +   AWS MANAGEMENT CONSOLE
-
++   BUSINESS OBJECTS
++   TABLEAU DESKTOP 2020.4
++   TABLEAU PUBLIC
 
 ##  **STANDARDS & COMPLIANCE**
 
@@ -51,6 +56,7 @@ author_profile: true
 +	eTOM
 +	Telecoms Application Map
 +	BPMN2.0
++   OFCOM QoS
 
 ##  **QUALIFICATIONS**
 
