@@ -7,7 +7,7 @@ classes: wide
 author_profile: yes
 read_time: yes
 show_date: yes
-excerpt: A showcase of what i have learnt and the story and dashboard features in tableau using the superstore dataset. https://public.tableau.com/views/SuperstoreCaseStudy_16135629660890/DiscountOverview?
+excerpt: A showcase of what i have learnt and the story and dashboard features in tableau using the superstore dataset. 
 ---
 
 ## **Overview**  
