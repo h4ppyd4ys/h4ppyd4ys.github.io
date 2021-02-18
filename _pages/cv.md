@@ -21,14 +21,14 @@ author_profile: true
 ##  **AREAS OF EXPERTISE**
  
 +	**Business Process Management & Optimization**– Design and delivery of a blueprint methodology and accompanying library of re-usable e-TOM compliant processes aligned to the full BSS suite of applications. The process focused blueprint approach significantly expedited key waterfall/agile analysis, design and testing phases. Extensive experience of business process optimization analysis to identify improvement opportunities.
-+	**Business Readiness** – Design and Delivery of services to support the customer in identifying operational impacts of target state solution and ensuring readiness activities are owned and implemented. A critical feed into go/no-go assessment criteria to ensure impacted stakeholders are ready to transition to the new landscape.
++	**Business Readiness** – Design and Delivery of services to support the customer in identifying operational impacts of target state solution and ensuring readiness activities are owned and implemented. Dashboard tracking of identified impacts against key readiness KPIs. A critical feed into go/no-go assessment criteria to ensure impacted stakeholders are ready to transition to the new landscape.
 +	**Business Process driven sandbox development** – using business processes to plan sandbox roadmap and facilitate expedited development cycles. 
 +	**Business Deployment** – Designing services to support the customer during production deployment including business continuity planning, defining detailed execution plans that incorporate migration activities. Set up and execution of deployment control functions to ensure an effective and structured deployment experience. Post deployment stabilization support
 +	**Business parameters/configuration** –Data capture and implementation support to configure the business capabilities on BSS products
 +   End to end process focused **requirements management** quality assurance.
 +   **Statement of work** contribution and transformation **quality assurance** reviews.
 +	Subject matter expert for **CRM, Billing, PLM, Inventory & Ordering** products at all phases of the project life cycle
-+   **Reporting & Business Intelligence** – Identify, analyze and map key KPIS and operational SLAs to business processes. Identifying and mitigating impacts of transformation to existing reporting capability. Identification of new report requirements.  Design and delivery of dashboards visualizations to tracks deliverable and work stream status. Creation of finance accrual reports for revenue assurance management and invoicing.
++   **Reporting & Business Intelligence** – Identify, analyze and map key KPIS and operational SLAs to business processes. Identifying and mitigating impacts of transformation to existing reporting capability. Identification of new report requirements.  Design and delivery of dashboard visualizations to tracks deliverable and work stream status. Creation of finance accrual reports for revenue assurance management and invoicing.
 
 ##  **TOOLS**
 
