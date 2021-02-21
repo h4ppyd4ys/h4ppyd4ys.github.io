@@ -69,6 +69,9 @@ Dec 2020 Coursera Data Science Foundations Using R
 OCT 2019 TEFL CERTIFICATION   
 <img src="/assets/images/tefl.jpg" width="500">
 
+FEB 2021 Coursera Data Visualization with Tableau 
+<img src="/assets/images/tableau.jpg">
+
 Post Graduate Diploma Information Systems &Technology (2000-2002) – City University -Distinction
 
 **Detailed CV available on request**.
