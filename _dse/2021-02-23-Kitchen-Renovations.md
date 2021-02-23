@@ -12,5 +12,5 @@ excerpt: Are you spending more time in your kitchen? Time for an upgrade?
 
 Having fun with infographics on tableau.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/KitchenRennovations/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '999px' height = '618px' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/KitchenRenovations/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '999px' height = '618px' scrolling='yes' ></iframe>
 
