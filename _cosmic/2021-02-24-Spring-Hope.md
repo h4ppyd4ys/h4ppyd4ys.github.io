@@ -6,7 +6,7 @@ gallery:
   - image_path: /assets/images/spring1.png
   - image_path: /assets/images/spring3.png
   - image_path: /assets/images/spring6.png
-  - image_path: /assets/images/spring2.png
+  - image_path: /assets/images/spring2.jpg
   - image_path: /assets/images/spring5.png
   - image_path: /assets/images/spring7.png  
 entries_layout: grid

@@ -9,7 +9,7 @@ show_date: yes
 excerpt: Yin Yang. To the moon and back. 
 ---
 
-<img src="/assets/images/Moonshot-18022021.jpg">
+<img src="/assets/images/moonshot-18022021.jpg">
 
 To the moon and back
 
