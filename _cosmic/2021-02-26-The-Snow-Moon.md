@@ -16,9 +16,9 @@ The Snow Moon
 
 And so it begins with a moment as all things do. The start of a beautiful relationship.   
 
-The belly button thingy is the Tycho Crater, one of the most prominent craters on the moon. Samples collected from the Apollo 17 landing are thought to be from this site and, if true, it is said to have been formed 108 million years ago.  
+The belly button thingy is the Tycho Crater, one of the most prominent craters on the moon. Samples collected from the Apollo 17 landing are thought to be from this site and, if true, it is said to have been formed 108 million years ago. [source](https://solarsystem.nasa.gov/resources/2264/tycho-crater-on-the-moon-labeled/) 
 
-[source](https://solarsystem.nasa.gov/resources/2264/tycho-crater-on-the-moon-labeled/)  
+
 
 It is said we came from the same  
 and formed in dance.    
@@ -31,8 +31,8 @@ that the oceans seek.
 For me she is clarity from within.  
 In darkness and light
 we dance in circles  
-enjoying the moment    
-and the shared awareness.  
+exchanging secrets through
+shared awareness.  
 
 *Dedicated to Ba*
 
