@@ -44,7 +44,7 @@ feature_row:
 
 *Data Explorations Needs You.*  
 
-**#WhatsappDilema - To Keep or Not to Keep?**  
+**#WhatsappDilemma - To Keep or Not to Keep?**  
 
 One Question Poll using [NextDoor App]("https://nextdoor.co.uk/p/FNRgc3YJH45h?utm_content=a&utm_source=share&extras=MTc1OTIxOTA4MTA4NTM%3D?init_source=copy_link_share")  
 
