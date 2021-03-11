@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 excerpt: "Unity Is Strength, Diversity Is Balance"
 header:
-  overlay_image: /assets/images/home-feature.jpg
+  overlay_image: /assets/images/splash.jpg
   caption: # "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/question.jpg
     alt: "datascience"
-    title: "Data Science Explorations"
+    title: "Data Explorations"
     excerpt: "So many questions, so much information. Transforming curiosities in the world of data. The quest begins..."
     url: "/dse/"
     btn_class: "btn--primary"
@@ -32,7 +32,24 @@ feature_row:
     url: "/cosmic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-    
+  - image_path: /assets/images/now.jpg
+    alt: "cosmic"
+    title: "Sensations of Essence"
+    excerpt: "Musings, thoughts, and images. The result of self-imposed immersion with silence, mystics, and minimalists"
+    url: "/Essence/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+  
 ---
+
+*Data Explorations Needs You.*  
+
+**#WhatsappDilema - To Keep or Not to Keep?**  
+
+One Question Poll using [NextDoor App]("https://nextdoor.co.uk/p/FNRgc3YJH45h?utm_content=a&utm_source=share&extras=MTc1OTIxOTA4MTA4NTM%3D?init_source=copy_link_share")  
+
+One minute survey at [SurveyMonkey]("www.surveymonkey.co.uk/r/D9CLYNM")
+
+
 
 {% include feature_row %}

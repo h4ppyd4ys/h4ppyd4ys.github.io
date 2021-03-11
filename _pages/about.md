@@ -21,7 +21,9 @@ My professional journey has afforded me 20 years of international telecoms exper
 
 As we rapidly transition into a world where, for better or worse, we begin to rely on the mysterious cloud and so-called big data, I wanted to understand more. So I opened pandora's box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data science explorations](/dse/) space. *Transforming curiosities in the world of data*.    
 
-[Cosmic adventures](/cosmic/) brings together, one legendary 1995 VW campervan and the realization of a lifelong fascination with the night sky in the form of Astrophotography to capture and *transform light* from distant stars, galaxies, and planets.
+[Cosmic adventures](/cosmic/) brings together, one legendary 1995 VW campervan and the realization of a lifelong fascination with the night sky in the form of Astrophotography to capture and *transform light* from distant stars, galaxies, and planets.  
+
+[Sensations of Essence](/essence/) Passing thoughts and images, captured on the journey to transformation. Would love to tell you more, but honestly have no idea where the inspiration will lead me.
 
 Time and attention are the most precious gifts we can offer to ourselves and one another, so much appreciated if you've stayed with me till here. Hope you enjoy the space.
 

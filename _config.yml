@@ -108,7 +108,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/kajal-patel-6ba0682"
-
+    - label: "Tableau"
+      icon: "fab fa-fw fa-tableau"
+      url: "https://public.tableau.com/profile/txjourneys#!/?newProfile=&activeTab=0"
+      
 # Site Footer
 footer:
   links:
@@ -139,6 +142,7 @@ include:
   - ["_pages"]
   - /dse
   - /cosmic
+  - /essence
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -202,7 +206,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -267,6 +271,9 @@ collections:
   cosmic:
     output: true
     permalink: /:collection/:path/
+  essence:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -310,4 +317,12 @@ defaults:
       author_profile: true
       share: true
       related: true 
-    
+   # _essence
+  - scope:
+      path: ""
+      type: essence
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true     
