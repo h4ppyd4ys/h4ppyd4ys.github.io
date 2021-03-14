@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/now.jpg
-    alt: "cosmic"
+    alt: "essence"
     title: "Sensations of Essence"
     excerpt: "Musings, thoughts, and images. The result of self-imposed immersion with silence, mystics, and minimalists"
     url: "/essence/"
