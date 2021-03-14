@@ -12,7 +12,7 @@ The Snow Moon
 
 <img src="/assets/images/snowmoon-26022021.jpg">
 
-The Snow Moon  
+Available for [download](https://www.shutterstock.com/image-photo/snow-moon-captured-london-uk-1925848772)  
 
 And so it begins with a moment as all things do. The start of a beautiful relationship.   
 

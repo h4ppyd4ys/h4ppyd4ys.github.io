@@ -19,7 +19,7 @@ As the planet embraces global transformation with varying degrees of acceptance,
 ##  Now
 My professional journey has afforded me 20 years of international telecoms experience, working with industry leaders to implement large transformation programs.  If you are seeking   *independent transformation consulting* support that aspires for *win-win solutions* and advocates *transparency, accountability, quality, and traceability* head over to my [CV](/cv/), where I have summarized my areas of expertise.   
 
-As we rapidly transition into a world where, for better or worse, we begin to rely on the mysterious cloud and so-called big data, I wanted to understand more. So I opened pandora's box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data science explorations](/dse/) space. *Transforming curiosities in the world of data*.    
+As we rapidly transition into a world where, for better or worse, we begin to rely on the mysterious cloud and so-called big data, I wanted to understand more. So I opened pandora's box of [data science](/assets/images/datasc.jpg) and dived into the [AWS Cloud Fundamentals](/assets/images/AWS.jpg) rabbit hole.  It is with these newly gained skills that I present to you this site and the [data explorations](/dse/) space. *Transforming curiosities in the world of data*.    
 
 [Cosmic adventures](/cosmic/) brings together, one legendary 1995 VW campervan and the realization of a lifelong fascination with the night sky in the form of Astrophotography to capture and *transform light* from distant stars, galaxies, and planets.  
 

@@ -9,3 +9,4 @@ author_profile: true
 ---
 
 Welcome to Sensations of Essence: Musings, thoughts, and images. The result of self-imposed immersion with silence, mystics, and minimalists
+

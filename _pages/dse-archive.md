@@ -4,6 +4,7 @@ title: "Data Science Explorations"
 collection: dse
 permalink: /dse/
 entries_layout: grid
+classes: wide
 author_profile: true
 related: true
 sort_by: date
