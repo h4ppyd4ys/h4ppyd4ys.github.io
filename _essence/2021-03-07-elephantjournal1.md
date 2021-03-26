@@ -11,7 +11,7 @@ show_date: yes
 excerpt: Sensations of Essence shares vibes with Elephant Journal 
 
 ---
-[Read Post](https://www.elephantjournal.com/2021/03/the-complex-art-of-doing-nothing/)
+[Read Post](https://www.elephantjournal.com/2021/03/slowing-down-the-complex-art-of-doing-nothing-kajal-patel/)
 
 {% include gallery class="full" %}
 
